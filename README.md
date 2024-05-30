@@ -6,6 +6,9 @@ In my case i use it for the velbuslink and my Home Assistant (give it a few minu
 1. Download the repository
 2. run the following commands
 3. Have Fun
+OR
+Docker Hub: https://hub.docker.com/r/cowarol/velserv
+
 
 # Build & run
 ```bash
