@@ -1,5 +1,5 @@
 # velserv
-Velbus USB to TCP/IP
+Velbus USB to TCP/IP.
 In my case i use it for the velbuslink and my Home Assistant (give it few minuts ;) ).
 
 # Installation
