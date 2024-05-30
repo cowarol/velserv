@@ -4,6 +4,7 @@ Velbus USB to TCP/IP
 # Installation
 1. Download the reposetory
 2. run the following commands
+3. Have Fun
 
 # Build & run
 ```bash
