@@ -1,0 +1,10 @@
+name: velserv
+services:
+    velserv:
+        image: cowarol/velserv
+        restart: always
+        devices:
+            - /dev/ttyACM0:/dev/ttyACM0
+        ports:
+            - 3788:3788
+        tty: true
