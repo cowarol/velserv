@@ -1,6 +1,6 @@
 # velserv
 Velbus USB to TCP/IP.
-In my case i use it for the velbuslink and my Home Assistant (give it few minuts ;) ).
+In my case i use it for the velbuslink and my Home Assistant (give it a few minuts ;) ).
 
 # Installation
 1. Download the repository
